@@ -19,7 +19,7 @@ public class Conversion {
 
 	    // Adding new elements to the list after conversion
 	    cityList.add("Chennai");
-	    cityList.add("Delhi");
+	    cityList.add("Bangalore");
 
 	    //print ArrayList elements using advanced for loop
 	    for (String str: cityList)
