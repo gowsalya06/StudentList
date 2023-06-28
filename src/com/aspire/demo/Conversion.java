@@ -21,6 +21,7 @@ public class Conversion {
 
 	    cityList.add("Chennai");
 	    cityList.add("Kochi");
+	    cityList.add("cuddalore");
 
 
 	    //print ArrayList elements using advanced for loop
